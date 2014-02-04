@@ -12,8 +12,8 @@ I've always had a deep hatred and aversion to the HTML table. I figured that if 
 	
 </body>
 
-Function Syntax
----------------
+Arguments
+---------
 
 The tableBam function takes three arguments: 
 
