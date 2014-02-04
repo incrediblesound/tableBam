@@ -5,7 +5,7 @@ I've always had a deep hatred and aversion to the HTML table. I figured that if 
 
 <body>
 
-	<div class="table"></div>
+	<div id="table"></div>
 	<script>
 	tableBam('#table','students','b1/h.name.age.sex/d.john.12.male/d.mary.13.female/d.josh.12.male');
 	</script>
